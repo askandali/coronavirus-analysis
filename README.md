@@ -61,7 +61,7 @@ In order to identify which substances of our list are included also in ATC ontol
 
 >The full list of identified dugs is in the output folder with name “IIdentified_Drugs_case_1.xlsx” file.
 
-![Identified drugs 1st case](plots/Case1_Drugs_plot.svg)
+![Identified drugs 1st case](Plots/Case1_Drugs_plot.svg)
 
 >The word cloud consists of all the substances that were identified in ATC and the size corresponds to the frequency of this substance in our dataset.
 
@@ -89,7 +89,7 @@ As part of the analysis, a classification over proteins and coronavirus concepts
 
 ## Clustering based on protein target
 
-![protein&concepts](plots/Clustered_Proteins.svg)
+![protein&concepts](Plots/Clustered_Proteins.svg)
 
 ## Additional information
 
